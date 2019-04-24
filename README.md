@@ -1,5 +1,7 @@
 ---
 title: "Introduction to R and RStudio"
+output: statsr:::statswithr_lab
+
 ---
 
 <div id="instructions">
